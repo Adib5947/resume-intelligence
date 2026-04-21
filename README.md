@@ -17,18 +17,18 @@
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 **JWT Authentication** — Secure signup & login with bcrypt password hashing
-- 📄 **Resume Parsing** — Extracts name, email, and skills from PDF resumes using pdfplumber + spaCy
-- 🤖 **AI Job Matching** — Semantically matches your resume skills against any job description
-- 📊 **Resume Scoring** — Scores your resume out of 100 with detailed feedback
-- 💡 **AI Suggestions** — Tells you exactly which skills to add for a specific role
-- 🎨 **Glassmorphism UI** — Dark, modern interface with smooth animations
+- **JWT Authentication** — Secure signup & login with bcrypt password hashing
+- **Resume Parsing** — Extracts name, email, and skills from PDF resumes using pdfplumber + spaCy
+- **AI Job Matching** — Semantically matches your resume skills against any job description
+- **Resume Scoring** — Scores your resume out of 100 with detailed feedback
+- **AI Suggestions** — Tells you exactly which skills to add for a specific role
+- **Glassmorphism UI** — Dark, modern interface with smooth animations
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Landing Page | App — Matcher |
 |---|---|
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 | Technology | Purpose |
@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ### Prerequisites
 - Python 3.10+
@@ -130,7 +130,7 @@ resume-intelligence/
 
 ---
 
-## 🔮 Roadmap
+## Roadmap
 
 - [ ] Google & Facebook OAuth
 - [ ] Resume PDF export with suggestions applied
@@ -140,11 +140,11 @@ resume-intelligence/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Adib Ahmed**
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+- LinkedIn: [https://www.linkedin.com/in/adib191/]
+- GitHub: [https://github.com/Adib5947]
 
 ---
 
